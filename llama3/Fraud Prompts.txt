@@ -1,0 +1,6 @@
+1) Definition of fraud and identification of fraud risk 
+2) Scope of the policy
+3) Requirements or procedures to prevent and detect fraud
+4) Requirements or procedures to investigate all reports or claims of fraud
+5) Requirements or procedures to tract incident or suspected fraud to resolution
+6) Requirements or procedures to report externally in any timeframes
